@@ -1,0 +1,28 @@
+[MEETING TRANSCRIPT 3 - FOLLOW-UP REVISION & SCOPE ADJUSTMENT]
+Project: Metro Medical & Wellness Directory Enhancement (Scope Revision)
+Client: Dr. Marcus Vance (Director, Metro Healthcare Network)
+Consultant: Alex Mercer (Senior AI Solutions Consultant)
+Date: October 14, 2026
+Label: Role-Played Synthetic Transcript (Follow-Up Revision: Added Requirement, Removed Feature, Changed Deadline)
+
+Alex: Good afternoon Dr. Vance. Following up on the approved baseline scope for the Metro Healthcare Directory from our meeting last Tuesday, I understand your hospital board met yesterday and requested a few strategic adjustments?
+
+Dr. Vance: Yes Alex, thank you for jumping on a call so quickly. The board was very impressed with the initial architecture and estimates, but they have three specific modifications that impact our project baseline.
+
+Alex: Let's walk through each one so we can track the exact delta against our approved Version 1 scope.
+
+Dr. Vance: First, the board mandated that we must add an 'Emergency After-Hours & Urgent Telehealth' badge and filter. Patients need to be able to toggle a switch on the search page that only displays physicians who offer same-day urgent telehealth appointments, along with an external booking button directly on their card.
+
+Alex: Got it. Requirement Addition: An 'After-Hours / Urgent Telehealth' filter attribute, taxonomy flag, and profile card button. That is a clear new requirement.
+
+Dr. Vance: Second, to offset this addition and keep the implementation clean, we decided to completely remove the custom swipeable gesture card view on mobile that we discussed in Meeting 1. Our clinical staff tested a prototype and found that the standard responsive 2-column mobile grid is actually much more accessible for elderly patients than gesture swiping. So let's remove the custom mobile swipeable gesture layout entirely and stick with the standard responsive card grid.
+
+Alex: That is a great decision. Removing the custom swipeable mobile gesture component will eliminate about 24 engineering hours and simplify mobile testing significantly.
+
+Dr. Vance: Exactly. But here is the critical constraint change: our annual network healthcare conference was moved up, so we need this entire system delivered and launched in 5 weeks instead of our original 8-week timeline. We need to be fully launched by mid-November.
+
+Alex: Understood. That compresses the delivery timeline by 3 weeks. To hit a 5-week launch with the new telehealth filter and without the swipeable card complexity, our team will need to schedule a focused 2-week development sprint and require fast 24-hour turnaround on design and insurance data reviews from Sarah Lin.
+
+Dr. Vance: Sarah has already cleared her calendar and agreed to 24-hour SLA on reviews. Could you generate an official Scope Change Diff Report showing the added requirement, removed feature, affected engineering tasks, revised hour totals, and compressed timeline for board signoff?
+
+Alex: Absolutely Dr. Vance. I will generate the comparative change report against our approved Version 1 baseline right away. Thank you!

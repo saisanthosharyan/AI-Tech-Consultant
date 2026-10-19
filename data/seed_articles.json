@@ -1,0 +1,126 @@
+[
+  {
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file",
+    "title": "How to Import Categories via CSV File",
+    "raw_text": "## Overview\nTo import a category structure via CSV, navigate to My Members >> Member Categories in your Brilliant Directories admin dashboard. Preparing a clean CSV file ensures that top-level, sub-level, and sub-sub-level categories are structured accurately.\n\n## CSV File Formatting\nYour CSV file must include headers for Top Level Category, Sub Category, and Sub-Sub Category. Do not include special characters or trailing spaces. Maximum recommended categories per batch upload is 1,500 rows.\n\n## Upload Steps\n1. Go to My Members >> Member Categories.\n2. Click the 'Import Categories' button in the upper right corner.\n3. Choose your formatted CSV file and click 'Validate CSV'.\n4. Review the field mapping preview.\n5. Click 'Import Now' to finalize.\n\n## Troubleshooting\nIf categories fail to import, ensure the file is saved in UTF-8 encoding. Common errors include missing parent categories or duplicate row entries.",
+    "headings": ["Overview", "CSV File Formatting", "Upload Steps", "Troubleshooting"],
+    "images": [
+      {
+        "url": "https://support.brilliantdirectories.com/assets/images/import-categories-admin.png",
+        "alt": "Member Categories Admin Screen with Import Button",
+        "surrounding_text": "Click the Import Categories button in the upper right corner of the Member Categories screen."
+      }
+    ]
+  },
+  {
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts",
+    "title": "Email Accounts and Notifications Setup",
+    "raw_text": "## Overview\nBrilliant Directories allows directory owners to send system notifications, member welcome emails, and billing receipts. Navigate to Emails >> Email Accounts to configure outbound SMTP and default sender addresses.\n\n## Default Sender Information\nSpecify the 'Default Sender Name' and 'Default From Email'. All automatic transactional notifications (lead alerts, payment receipts, password resets) will originate from this address.\n\n## Custom SMTP Integration\nTo maximize email deliverability, integrate third-party SMTP providers like SendGrid, Mailgun, or Amazon SES. Enter your SMTP Host, Port (587 or 465), Username, and API Key in the Advanced Email Settings.\n\n## Troubleshooting Bounce Rates\nVerify your domain's SPF and DKIM DNS records to prevent emails from landing in spam folders.",
+    "headings": ["Overview", "Default Sender Information", "Custom SMTP Integration", "Troubleshooting Bounce Rates"],
+    "images": [
+      {
+        "url": "https://support.brilliantdirectories.com/assets/images/email-settings-smtp.png",
+        "alt": "Emails Configuration Panel with SMTP host and port settings",
+        "surrounding_text": "Enter your SMTP Host, Port, Username, and API Key in the Advanced Email Settings."
+      }
+    ]
+  },
+  {
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab",
+    "title": "General Settings: Social Media Tab",
+    "raw_text": "## Overview\nThe Social Media tab under Settings >> General Settings enables website owners to link their Facebook, X (Twitter), LinkedIn, Instagram, and YouTube accounts.\n\n## Configuring Social Links\nPaste the full URL for each social profile into the corresponding field. These links automatically render as icons in your website footer and header widget.\n\n## Open Graph and Meta Tags\nEnable the Open Graph toggle to allow automatic generation of og:image and og:description tags when members share directory listings on social networks.",
+    "headings": ["Overview", "Configuring Social Links", "Open Graph and Meta Tags"],
+    "images": [
+      {
+        "url": "https://support.brilliantdirectories.com/assets/images/social-media-tab.png",
+        "alt": "Social Media Links Admin Interface",
+        "surrounding_text": "Paste the full URL for each social profile into the corresponding field."
+      }
+    ]
+  },
+  {
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-",
+    "title": "Can I Send Mass Email Campaigns Using Brilliant Directories?",
+    "raw_text": "## Mass Email Capabilities\nBrilliant Directories includes a built-in Newsletter and Mass Email tool under Emails >> Send Newsletter. It is designed for announcements, community updates, and promotional broadcasts to registered members.\n\n## Sending Limits and Guidelines\nStandard server limits allow up to 5,000 emails per month on shared plans. For larger lists exceeding 10,000 contacts, we strongly recommend connecting an external email marketing provider like Mailchimp or using SendGrid Webhooks.\n\n## Unsubscribe Compliance\nEvery newsletter sent through the system automatically inserts an unsubscribe footer in compliance with CAN-SPAM regulations.",
+    "headings": ["Mass Email Capabilities", "Sending Limits and Guidelines", "Unsubscribe Compliance"],
+    "images": []
+  },
+  {
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558420-connecting-stripe-payment-gateway",
+    "title": "Connecting Stripe Payment Gateway",
+    "raw_text": "## Overview\nStripe is the primary payment gateway supported natively by Brilliant Directories for recurring subscription billing and one-time purchases. Navigate to Finance >> Payment Gateways.\n\n## Setup Steps\n1. In Finance >> Payment Gateways, select 'Stripe' from the supported gateways dropdown.\n2. Click 'Connect with Stripe' or manually enter your Stripe Publishable Key and Stripe Secret Key.\n3. Configure webhook endpoint: Copy the Webhook URL provided in the BD admin and paste it into your Stripe Dashboard under Developers >> Webhooks.\n4. Enable webhook events for customer.subscription.deleted, invoice.payment_succeeded, and invoice.payment_failed.\n\n## Supported Currencies & Refunds\nStripe supports over 135 currencies. Refunds must be initiated from Finance >> Transaction History or directly within the Stripe Dashboard.",
+    "headings": ["Overview", "Setup Steps", "Supported Currencies & Refunds"],
+    "images": [
+      {
+        "url": "https://support.brilliantdirectories.com/assets/images/stripe-gateway-setup.png",
+        "alt": "Stripe Gateway Credentials Input Screen",
+        "surrounding_text": "In Finance >> Payment Gateways, select Stripe and enter your Publishable and Secret Keys."
+      }
+    ]
+  },
+  {
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558450-configuring-search-filters-and-member-search-results",
+    "title": "Configuring Search Filters and Member Search Results",
+    "raw_text": "## Overview\nTo customize how visitors search your directory and how member listings appear, navigate to Content >> Edit Post Settings or Settings >> General Settings >> Search Settings.\n\n## Filtering Options\nMembers can be filtered by Location (Radius, City, State, Country), Category (Top/Sub), Keyword, and Custom Field values. Location searches utilize Google Maps API or OpenStreetMap depending on your settings.\n\n## Search Results Layouts\nChoose between Grid View, List View, and Map View. You can customize the sorting order (Featured members first, highest rated, alphabetical, or closest distance).",
+    "headings": ["Overview", "Filtering Options", "Search Results Layouts"],
+    "images": [
+      {
+        "url": "https://support.brilliantdirectories.com/assets/images/search-settings-filters.png",
+        "alt": "Search Settings Configuration Panel showing radius and category filters",
+        "surrounding_text": "Configure search filtering by Location, Category, Keyword, and Custom Field values."
+      }
+    ]
+  },
+  {
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-setting-up-custom-domain-name-and-ssl",
+    "title": "Connecting a Custom Domain Name and Free SSL Certificate",
+    "raw_text": "## Domain Mapping Overview\nEvery Brilliant Directories website comes with a temporary staging domain (e.g. yourname.directoryup.com). When ready to launch, point your live custom domain.\n\n## DNS Configuration\n1. Log into your domain registrar (GoDaddy, Namecheap, Cloudflare, etc.).\n2. Add an A Record: Host '@' pointing to the IP address displayed in your BD Dashboard.\n3. Add a CNAME Record: Host 'www' pointing to your root domain.\n\n## Free SSL Certificate\nOnce DNS propagates (typically 1-4 hours), click 'Install Free SSL' in the BD Dashboard. Brilliant Directories provisions a free Let's Encrypt SSL certificate automatically renewing every 90 days.",
+    "headings": ["Domain Mapping Overview", "DNS Configuration", "Free SSL Certificate"],
+    "images": [
+      {
+        "url": "https://support.brilliantdirectories.com/assets/images/domain-dns-settings.png",
+        "alt": "Custom Domain and DNS Records Management Panel",
+        "surrounding_text": "Add an A Record pointing to the Brilliant Directories IP address."
+      }
+    ]
+  },
+  {
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558500-lead-generation-and-auto-matching-settings",
+    "title": "Lead Generation and Automatic Member Matching",
+    "raw_text": "## Overview\nThe Automatic Lead Matching system routes incoming visitor inquiries to qualified members based on category and geographic location. Navigate to Leads >> Lead Settings.\n\n## Matching Rules\nConfigure whether leads match based on exact top-level category or also match sub-categories. You can set a maximum radius (e.g., 25 miles) and cap the maximum number of members receiving each lead (e.g., up to 3 members).\n\n## Monetizing Leads\nDirectory owners can provide leads for free, charge a fee per lead purchase, or include lead credits as part of premium membership plans.",
+    "headings": ["Overview", "Matching Rules", "Monetizing Leads"],
+    "images": [
+      {
+        "url": "https://support.brilliantdirectories.com/assets/images/lead-matching-rules.png",
+        "alt": "Lead Routing and Auto Matching Rules Panel",
+        "surrounding_text": "Configure matching based on category and maximum radius."
+      }
+    ]
+  },
+  {
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558525-managing-membership-plans-and-pricing",
+    "title": "Managing Membership Plans and Pricing Levels",
+    "raw_text": "## Overview\nMembership plans determine what privileges, search priority, and features directory members receive. Manage plans under Finance >> Membership Plans.\n\n## Pricing Models\nBrilliant Directories supports: Free plans, One-Time payment plans, and Recurring Subscriptions (Monthly, Quarterly, Annual). Configure trial periods and initial setup fees if desired.\n\n## Feature Restrictions\nControl permissions per plan: Allow member to upload photos, create coupon posts, receive direct messages, publish job listings, or access restricted member-only pages.",
+    "headings": ["Overview", "Pricing Models", "Feature Restrictions"],
+    "images": [
+      {
+        "url": "https://support.brilliantdirectories.com/assets/images/membership-plans.png",
+        "alt": "Membership Plans Pricing and Permissions Matrix",
+        "surrounding_text": "Manage plans under Finance >> Membership Plans to configure pricing and privileges."
+      }
+    ]
+  },
+  {
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558550-exporting-and-importing-members-data",
+    "title": "Exporting and Importing Member Records",
+    "raw_text": "## Overview\nBulk member management is handled via CSV under My Members >> Member Export and My Members >> Import Members.\n\n## Exporting Members\nFilter members by status (Active, Pending, Cancelled) or plan level, then click 'Export Members to CSV'. The export includes user IDs, names, emails, company info, and addresses.\n\n## Importing Guidelines\nWhen importing, ensure email addresses are unique. If a member's email already exists, choose whether to update existing records or skip duplicates. Custom form fields can be mapped during the import step.",
+    "headings": ["Overview", "Exporting Members", "Importing Guidelines"],
+    "images": [
+      {
+        "url": "https://support.brilliantdirectories.com/assets/images/member-export-filter.png",
+        "alt": "Export Members Filter and Download Screen",
+        "surrounding_text": "Filter members by status or plan level and click Export Members to CSV."
+      }
+    ]
+  }
+]

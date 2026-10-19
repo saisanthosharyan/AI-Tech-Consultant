@@ -1,0 +1,400 @@
+[
+  {
+    "chunk_id": "art_1_c0",
+    "article_id": 1,
+    "chunk_index": 0,
+    "title": "How to Import Categories via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file",
+    "section": "Overview",
+    "chunk_text": "Article: How to Import Categories via CSV File\nSection: Overview\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file\n\n## Overview\nTo import a category structure via CSV, navigate to My Members >> Member Categories in your Brilliant Directories admin dashboard. Preparing a clean CSV file ensures that top-level, sub-level, and sub-sub-level categories are structured accurately.\n\n## CSV File Formatting\nYour CSV file must include headers for Top Level Category, Sub Category, and Sub-Sub Category. Do not include special characters or trailing spaces. Maximum recommended categories per batch upload is 1,500 rows.\n\n## Upload Steps\n1. Go to My Members >> Member Categories.\n2. Click the 'Import Categories' button in the upper right corner.\n3. Choose your formatted CSV file and click 'Validate CSV'.\n4. Review the field mapping preview.\n5. Click 'Import Now' to finalize.\n\n## Troubleshooting\nIf categories fail to import, ensure the file is saved in UTF-8 encoding. Common errors include missing parent categories or duplicate row entries.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/import-categories-admin.png"
+    ]
+  },
+  {
+    "chunk_id": "art_1_c1",
+    "article_id": 1,
+    "chunk_index": 1,
+    "title": "How to Import Categories via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file",
+    "section": "CSV File Formatting",
+    "chunk_text": "Article: How to Import Categories via CSV File\nSection: CSV File Formatting\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file\n\n## Overview\nTo import a category structure via CSV, navigate to My Members >> Member Categories in your Brilliant Directories admin dashboard. Preparing a clean CSV file ensures that top-level, sub-level, and sub-sub-level categories are structured accurately.\n\n## CSV File Formatting\nYour CSV file must include headers for Top Level Category, Sub Category, and Sub-Sub Category. Do not include special characters or trailing spaces. Maximum recommended categories per batch upload is 1,500 rows.\n\n## Upload Steps\n1. Go to My Members >> Member Categories.\n2. Click the 'Import Categories' button in the upper right corner.\n3. Choose your formatted CSV file and click 'Validate CSV'.\n4. Review the field mapping preview.\n5. Click 'Import Now' to finalize.\n\n## Troubleshooting\nIf categories fail to import, ensure the file is saved in UTF-8 encoding. Common errors include missing parent categories or duplicate row entries.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/import-categories-admin.png"
+    ]
+  },
+  {
+    "chunk_id": "art_1_c2",
+    "article_id": 1,
+    "chunk_index": 2,
+    "title": "How to Import Categories via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file",
+    "section": "Upload Steps",
+    "chunk_text": "Article: How to Import Categories via CSV File\nSection: Upload Steps\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file\n\n## Overview\nTo import a category structure via CSV, navigate to My Members >> Member Categories in your Brilliant Directories admin dashboard. Preparing a clean CSV file ensures that top-level, sub-level, and sub-sub-level categories are structured accurately.\n\n## CSV File Formatting\nYour CSV file must include headers for Top Level Category, Sub Category, and Sub-Sub Category. Do not include special characters or trailing spaces. Maximum recommended categories per batch upload is 1,500 rows.\n\n## Upload Steps\n1. Go to My Members >> Member Categories.\n2. Click the 'Import Categories' button in the upper right corner.\n3. Choose your formatted CSV file and click 'Validate CSV'.\n4. Review the field mapping preview.\n5. Click 'Import Now' to finalize.\n\n## Troubleshooting\nIf categories fail to import, ensure the file is saved in UTF-8 encoding. Common errors include missing parent categories or duplicate row entries.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/import-categories-admin.png"
+    ]
+  },
+  {
+    "chunk_id": "art_1_c3",
+    "article_id": 1,
+    "chunk_index": 3,
+    "title": "How to Import Categories via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file",
+    "section": "Troubleshooting",
+    "chunk_text": "Article: How to Import Categories via CSV File\nSection: Troubleshooting\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file\n\n## Overview\nTo import a category structure via CSV, navigate to My Members >> Member Categories in your Brilliant Directories admin dashboard. Preparing a clean CSV file ensures that top-level, sub-level, and sub-sub-level categories are structured accurately.\n\n## CSV File Formatting\nYour CSV file must include headers for Top Level Category, Sub Category, and Sub-Sub Category. Do not include special characters or trailing spaces. Maximum recommended categories per batch upload is 1,500 rows.\n\n## Upload Steps\n1. Go to My Members >> Member Categories.\n2. Click the 'Import Categories' button in the upper right corner.\n3. Choose your formatted CSV file and click 'Validate CSV'.\n4. Review the field mapping preview.\n5. Click 'Import Now' to finalize.\n\n## Troubleshooting\nIf categories fail to import, ensure the file is saved in UTF-8 encoding. Common errors include missing parent categories or duplicate row entries.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/import-categories-admin.png"
+    ]
+  },
+  {
+    "chunk_id": "art_2_c0",
+    "article_id": 2,
+    "chunk_index": 0,
+    "title": "Email Accounts and Notifications Setup",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts",
+    "section": "Overview",
+    "chunk_text": "Article: Email Accounts and Notifications Setup\nSection: Overview\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts\n\n## Overview\nBrilliant Directories allows directory owners to send system notifications, member welcome emails, and billing receipts. Navigate to Emails >> Email Accounts to configure outbound SMTP and default sender addresses.\n\n## Default Sender Information\nSpecify the 'Default Sender Name' and 'Default From Email'. All automatic transactional notifications (lead alerts, payment receipts, password resets) will originate from this address.\n\n## Custom SMTP Integration\nTo maximize email deliverability, integrate third-party SMTP providers like SendGrid, Mailgun, or Amazon SES. Enter your SMTP Host, Port (587 or 465), Username, and API Key in the Advanced Email Settings.\n\n## Troubleshooting Bounce Rates\nVerify your domain's SPF and DKIM DNS records to prevent emails from landing in spam folders.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/email-settings-smtp.png"
+    ]
+  },
+  {
+    "chunk_id": "art_2_c1",
+    "article_id": 2,
+    "chunk_index": 1,
+    "title": "Email Accounts and Notifications Setup",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts",
+    "section": "Default Sender Information",
+    "chunk_text": "Article: Email Accounts and Notifications Setup\nSection: Default Sender Information\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts\n\n## Overview\nBrilliant Directories allows directory owners to send system notifications, member welcome emails, and billing receipts. Navigate to Emails >> Email Accounts to configure outbound SMTP and default sender addresses.\n\n## Default Sender Information\nSpecify the 'Default Sender Name' and 'Default From Email'. All automatic transactional notifications (lead alerts, payment receipts, password resets) will originate from this address.\n\n## Custom SMTP Integration\nTo maximize email deliverability, integrate third-party SMTP providers like SendGrid, Mailgun, or Amazon SES. Enter your SMTP Host, Port (587 or 465), Username, and API Key in the Advanced Email Settings.\n\n## Troubleshooting Bounce Rates\nVerify your domain's SPF and DKIM DNS records to prevent emails from landing in spam folders.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/email-settings-smtp.png"
+    ]
+  },
+  {
+    "chunk_id": "art_2_c2",
+    "article_id": 2,
+    "chunk_index": 2,
+    "title": "Email Accounts and Notifications Setup",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts",
+    "section": "Custom SMTP Integration",
+    "chunk_text": "Article: Email Accounts and Notifications Setup\nSection: Custom SMTP Integration\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts\n\n## Overview\nBrilliant Directories allows directory owners to send system notifications, member welcome emails, and billing receipts. Navigate to Emails >> Email Accounts to configure outbound SMTP and default sender addresses.\n\n## Default Sender Information\nSpecify the 'Default Sender Name' and 'Default From Email'. All automatic transactional notifications (lead alerts, payment receipts, password resets) will originate from this address.\n\n## Custom SMTP Integration\nTo maximize email deliverability, integrate third-party SMTP providers like SendGrid, Mailgun, or Amazon SES. Enter your SMTP Host, Port (587 or 465), Username, and API Key in the Advanced Email Settings.\n\n## Troubleshooting Bounce Rates\nVerify your domain's SPF and DKIM DNS records to prevent emails from landing in spam folders.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/email-settings-smtp.png"
+    ]
+  },
+  {
+    "chunk_id": "art_2_c3",
+    "article_id": 2,
+    "chunk_index": 3,
+    "title": "Email Accounts and Notifications Setup",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts",
+    "section": "Troubleshooting Bounce Rates",
+    "chunk_text": "Article: Email Accounts and Notifications Setup\nSection: Troubleshooting Bounce Rates\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts\n\n## Overview\nBrilliant Directories allows directory owners to send system notifications, member welcome emails, and billing receipts. Navigate to Emails >> Email Accounts to configure outbound SMTP and default sender addresses.\n\n## Default Sender Information\nSpecify the 'Default Sender Name' and 'Default From Email'. All automatic transactional notifications (lead alerts, payment receipts, password resets) will originate from this address.\n\n## Custom SMTP Integration\nTo maximize email deliverability, integrate third-party SMTP providers like SendGrid, Mailgun, or Amazon SES. Enter your SMTP Host, Port (587 or 465), Username, and API Key in the Advanced Email Settings.\n\n## Troubleshooting Bounce Rates\nVerify your domain's SPF and DKIM DNS records to prevent emails from landing in spam folders.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/email-settings-smtp.png"
+    ]
+  },
+  {
+    "chunk_id": "art_3_c0",
+    "article_id": 3,
+    "chunk_index": 0,
+    "title": "General Settings: Social Media Tab",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab",
+    "section": "Overview",
+    "chunk_text": "Article: General Settings: Social Media Tab\nSection: Overview\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab\n\n## Overview\nThe Social Media tab under Settings >> General Settings enables website owners to link their Facebook, X (Twitter), LinkedIn, Instagram, and YouTube accounts.\n\n## Configuring Social Links\nPaste the full URL for each social profile into the corresponding field. These links automatically render as icons in your website footer and header widget.\n\n## Open Graph and Meta Tags\nEnable the Open Graph toggle to allow automatic generation of og:image and og:description tags when members share directory listings on social networks.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/social-media-tab.png"
+    ]
+  },
+  {
+    "chunk_id": "art_3_c1",
+    "article_id": 3,
+    "chunk_index": 1,
+    "title": "General Settings: Social Media Tab",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab",
+    "section": "Configuring Social Links",
+    "chunk_text": "Article: General Settings: Social Media Tab\nSection: Configuring Social Links\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab\n\n## Overview\nThe Social Media tab under Settings >> General Settings enables website owners to link their Facebook, X (Twitter), LinkedIn, Instagram, and YouTube accounts.\n\n## Configuring Social Links\nPaste the full URL for each social profile into the corresponding field. These links automatically render as icons in your website footer and header widget.\n\n## Open Graph and Meta Tags\nEnable the Open Graph toggle to allow automatic generation of og:image and og:description tags when members share directory listings on social networks.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/social-media-tab.png"
+    ]
+  },
+  {
+    "chunk_id": "art_3_c2",
+    "article_id": 3,
+    "chunk_index": 2,
+    "title": "General Settings: Social Media Tab",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab",
+    "section": "Open Graph and Meta Tags",
+    "chunk_text": "Article: General Settings: Social Media Tab\nSection: Open Graph and Meta Tags\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab\n\n## Overview\nThe Social Media tab under Settings >> General Settings enables website owners to link their Facebook, X (Twitter), LinkedIn, Instagram, and YouTube accounts.\n\n## Configuring Social Links\nPaste the full URL for each social profile into the corresponding field. These links automatically render as icons in your website footer and header widget.\n\n## Open Graph and Meta Tags\nEnable the Open Graph toggle to allow automatic generation of og:image and og:description tags when members share directory listings on social networks.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/social-media-tab.png"
+    ]
+  },
+  {
+    "chunk_id": "art_4_c0",
+    "article_id": 4,
+    "chunk_index": 0,
+    "title": "Can I Send Mass Email Campaigns Using Brilliant Directories?",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-",
+    "section": "Mass Email Capabilities",
+    "chunk_text": "Article: Can I Send Mass Email Campaigns Using Brilliant Directories?\nSection: Mass Email Capabilities\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-\n\n## Mass Email Capabilities\nBrilliant Directories includes a built-in Newsletter and Mass Email tool under Emails >> Send Newsletter. It is designed for announcements, community updates, and promotional broadcasts to registered members.\n\n## Sending Limits and Guidelines\nStandard server limits allow up to 5,000 emails per month on shared plans. For larger lists exceeding 10,000 contacts, we strongly recommend connecting an external email marketing provider like Mailchimp or using SendGrid Webhooks.\n\n## Unsubscribe Compliance\nEvery newsletter sent through the system automatically inserts an unsubscribe footer in compliance with CAN-SPAM regulations.",
+    "images": []
+  },
+  {
+    "chunk_id": "art_4_c1",
+    "article_id": 4,
+    "chunk_index": 1,
+    "title": "Can I Send Mass Email Campaigns Using Brilliant Directories?",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-",
+    "section": "Sending Limits and Guidelines",
+    "chunk_text": "Article: Can I Send Mass Email Campaigns Using Brilliant Directories?\nSection: Sending Limits and Guidelines\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-\n\n## Mass Email Capabilities\nBrilliant Directories includes a built-in Newsletter and Mass Email tool under Emails >> Send Newsletter. It is designed for announcements, community updates, and promotional broadcasts to registered members.\n\n## Sending Limits and Guidelines\nStandard server limits allow up to 5,000 emails per month on shared plans. For larger lists exceeding 10,000 contacts, we strongly recommend connecting an external email marketing provider like Mailchimp or using SendGrid Webhooks.\n\n## Unsubscribe Compliance\nEvery newsletter sent through the system automatically inserts an unsubscribe footer in compliance with CAN-SPAM regulations.",
+    "images": []
+  },
+  {
+    "chunk_id": "art_4_c2",
+    "article_id": 4,
+    "chunk_index": 2,
+    "title": "Can I Send Mass Email Campaigns Using Brilliant Directories?",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-",
+    "section": "Unsubscribe Compliance",
+    "chunk_text": "Article: Can I Send Mass Email Campaigns Using Brilliant Directories?\nSection: Unsubscribe Compliance\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-\n\n## Mass Email Capabilities\nBrilliant Directories includes a built-in Newsletter and Mass Email tool under Emails >> Send Newsletter. It is designed for announcements, community updates, and promotional broadcasts to registered members.\n\n## Sending Limits and Guidelines\nStandard server limits allow up to 5,000 emails per month on shared plans. For larger lists exceeding 10,000 contacts, we strongly recommend connecting an external email marketing provider like Mailchimp or using SendGrid Webhooks.\n\n## Unsubscribe Compliance\nEvery newsletter sent through the system automatically inserts an unsubscribe footer in compliance with CAN-SPAM regulations.",
+    "images": []
+  },
+  {
+    "chunk_id": "art_5_c0",
+    "article_id": 5,
+    "chunk_index": 0,
+    "title": "Connecting Stripe Payment Gateway",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558420-connecting-stripe-payment-gateway",
+    "section": "Overview",
+    "chunk_text": "Article: Connecting Stripe Payment Gateway\nSection: Overview\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558420-connecting-stripe-payment-gateway\n\n## Overview\nStripe is the primary payment gateway supported natively by Brilliant Directories for recurring subscription billing and one-time purchases. Navigate to Finance >> Payment Gateways.\n\n## Setup Steps\n1. In Finance >> Payment Gateways, select 'Stripe' from the supported gateways dropdown.\n2. Click 'Connect with Stripe' or manually enter your Stripe Publishable Key and Stripe Secret Key.\n3. Configure webhook endpoint: Copy the Webhook URL provided in the BD admin and paste it into your Stripe Dashboard under Developers >> Webhooks.\n4. Enable webhook events for customer.subscription.deleted, invoice.payment_succeeded, and invoice.payment_failed.\n\n## Supported Currencies & Refunds\nStripe supports over 135 currencies. Refunds must be initiated from Finance >> Transaction History or directly within the Stripe Dashboard.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/stripe-gateway-setup.png"
+    ]
+  },
+  {
+    "chunk_id": "art_5_c1",
+    "article_id": 5,
+    "chunk_index": 1,
+    "title": "Connecting Stripe Payment Gateway",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558420-connecting-stripe-payment-gateway",
+    "section": "Setup Steps",
+    "chunk_text": "Article: Connecting Stripe Payment Gateway\nSection: Setup Steps\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558420-connecting-stripe-payment-gateway\n\n## Overview\nStripe is the primary payment gateway supported natively by Brilliant Directories for recurring subscription billing and one-time purchases. Navigate to Finance >> Payment Gateways.\n\n## Setup Steps\n1. In Finance >> Payment Gateways, select 'Stripe' from the supported gateways dropdown.\n2. Click 'Connect with Stripe' or manually enter your Stripe Publishable Key and Stripe Secret Key.\n3. Configure webhook endpoint: Copy the Webhook URL provided in the BD admin and paste it into your Stripe Dashboard under Developers >> Webhooks.\n4. Enable webhook events for customer.subscription.deleted, invoice.payment_succeeded, and invoice.payment_failed.\n\n## Supported Currencies & Refunds\nStripe supports over 135 currencies. Refunds must be initiated from Finance >> Transaction History or directly within the Stripe Dashboard.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/stripe-gateway-setup.png"
+    ]
+  },
+  {
+    "chunk_id": "art_5_c2",
+    "article_id": 5,
+    "chunk_index": 2,
+    "title": "Connecting Stripe Payment Gateway",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558420-connecting-stripe-payment-gateway",
+    "section": "Supported Currencies & Refunds",
+    "chunk_text": "Article: Connecting Stripe Payment Gateway\nSection: Supported Currencies & Refunds\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558420-connecting-stripe-payment-gateway\n\n## Overview\nStripe is the primary payment gateway supported natively by Brilliant Directories for recurring subscription billing and one-time purchases. Navigate to Finance >> Payment Gateways.\n\n## Setup Steps\n1. In Finance >> Payment Gateways, select 'Stripe' from the supported gateways dropdown.\n2. Click 'Connect with Stripe' or manually enter your Stripe Publishable Key and Stripe Secret Key.\n3. Configure webhook endpoint: Copy the Webhook URL provided in the BD admin and paste it into your Stripe Dashboard under Developers >> Webhooks.\n4. Enable webhook events for customer.subscription.deleted, invoice.payment_succeeded, and invoice.payment_failed.\n\n## Supported Currencies & Refunds\nStripe supports over 135 currencies. Refunds must be initiated from Finance >> Transaction History or directly within the Stripe Dashboard.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/stripe-gateway-setup.png"
+    ]
+  },
+  {
+    "chunk_id": "art_6_c0",
+    "article_id": 6,
+    "chunk_index": 0,
+    "title": "Configuring Search Filters and Member Search Results",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558450-configuring-search-filters-and-member-search-results",
+    "section": "Overview",
+    "chunk_text": "Article: Configuring Search Filters and Member Search Results\nSection: Overview\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558450-configuring-search-filters-and-member-search-results\n\n## Overview\nTo customize how visitors search your directory and how member listings appear, navigate to Content >> Edit Post Settings or Settings >> General Settings >> Search Settings.\n\n## Filtering Options\nMembers can be filtered by Location (Radius, City, State, Country), Category (Top/Sub), Keyword, and Custom Field values. Location searches utilize Google Maps API or OpenStreetMap depending on your settings.\n\n## Search Results Layouts\nChoose between Grid View, List View, and Map View. You can customize the sorting order (Featured members first, highest rated, alphabetical, or closest distance).",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/search-settings-filters.png"
+    ]
+  },
+  {
+    "chunk_id": "art_6_c1",
+    "article_id": 6,
+    "chunk_index": 1,
+    "title": "Configuring Search Filters and Member Search Results",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558450-configuring-search-filters-and-member-search-results",
+    "section": "Filtering Options",
+    "chunk_text": "Article: Configuring Search Filters and Member Search Results\nSection: Filtering Options\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558450-configuring-search-filters-and-member-search-results\n\n## Overview\nTo customize how visitors search your directory and how member listings appear, navigate to Content >> Edit Post Settings or Settings >> General Settings >> Search Settings.\n\n## Filtering Options\nMembers can be filtered by Location (Radius, City, State, Country), Category (Top/Sub), Keyword, and Custom Field values. Location searches utilize Google Maps API or OpenStreetMap depending on your settings.\n\n## Search Results Layouts\nChoose between Grid View, List View, and Map View. You can customize the sorting order (Featured members first, highest rated, alphabetical, or closest distance).",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/search-settings-filters.png"
+    ]
+  },
+  {
+    "chunk_id": "art_6_c2",
+    "article_id": 6,
+    "chunk_index": 2,
+    "title": "Configuring Search Filters and Member Search Results",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558450-configuring-search-filters-and-member-search-results",
+    "section": "Search Results Layouts",
+    "chunk_text": "Article: Configuring Search Filters and Member Search Results\nSection: Search Results Layouts\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558450-configuring-search-filters-and-member-search-results\n\n## Overview\nTo customize how visitors search your directory and how member listings appear, navigate to Content >> Edit Post Settings or Settings >> General Settings >> Search Settings.\n\n## Filtering Options\nMembers can be filtered by Location (Radius, City, State, Country), Category (Top/Sub), Keyword, and Custom Field values. Location searches utilize Google Maps API or OpenStreetMap depending on your settings.\n\n## Search Results Layouts\nChoose between Grid View, List View, and Map View. You can customize the sorting order (Featured members first, highest rated, alphabetical, or closest distance).",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/search-settings-filters.png"
+    ]
+  },
+  {
+    "chunk_id": "art_7_c0",
+    "article_id": 7,
+    "chunk_index": 0,
+    "title": "Connecting a Custom Domain Name and Free SSL Certificate",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-setting-up-custom-domain-name-and-ssl",
+    "section": "Domain Mapping Overview",
+    "chunk_text": "Article: Connecting a Custom Domain Name and Free SSL Certificate\nSection: Domain Mapping Overview\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558475-setting-up-custom-domain-name-and-ssl\n\n## Domain Mapping Overview\nEvery Brilliant Directories website comes with a temporary staging domain (e.g. yourname.directoryup.com). When ready to launch, point your live custom domain.\n\n## DNS Configuration\n1. Log into your domain registrar (GoDaddy, Namecheap, Cloudflare, etc.).\n2. Add an A Record: Host '@' pointing to the IP address displayed in your BD Dashboard.\n3. Add a CNAME Record: Host 'www' pointing to your root domain.\n\n## Free SSL Certificate\nOnce DNS propagates (typically 1-4 hours), click 'Install Free SSL' in the BD Dashboard. Brilliant Directories provisions a free Let's Encrypt SSL certificate automatically renewing every 90 days.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/domain-dns-settings.png"
+    ]
+  },
+  {
+    "chunk_id": "art_7_c1",
+    "article_id": 7,
+    "chunk_index": 1,
+    "title": "Connecting a Custom Domain Name and Free SSL Certificate",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-setting-up-custom-domain-name-and-ssl",
+    "section": "DNS Configuration",
+    "chunk_text": "Article: Connecting a Custom Domain Name and Free SSL Certificate\nSection: DNS Configuration\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558475-setting-up-custom-domain-name-and-ssl\n\n## Domain Mapping Overview\nEvery Brilliant Directories website comes with a temporary staging domain (e.g. yourname.directoryup.com). When ready to launch, point your live custom domain.\n\n## DNS Configuration\n1. Log into your domain registrar (GoDaddy, Namecheap, Cloudflare, etc.).\n2. Add an A Record: Host '@' pointing to the IP address displayed in your BD Dashboard.\n3. Add a CNAME Record: Host 'www' pointing to your root domain.\n\n## Free SSL Certificate\nOnce DNS propagates (typically 1-4 hours), click 'Install Free SSL' in the BD Dashboard. Brilliant Directories provisions a free Let's Encrypt SSL certificate automatically renewing every 90 days.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/domain-dns-settings.png"
+    ]
+  },
+  {
+    "chunk_id": "art_7_c2",
+    "article_id": 7,
+    "chunk_index": 2,
+    "title": "Connecting a Custom Domain Name and Free SSL Certificate",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-setting-up-custom-domain-name-and-ssl",
+    "section": "Free SSL Certificate",
+    "chunk_text": "Article: Connecting a Custom Domain Name and Free SSL Certificate\nSection: Free SSL Certificate\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558475-setting-up-custom-domain-name-and-ssl\n\n## Domain Mapping Overview\nEvery Brilliant Directories website comes with a temporary staging domain (e.g. yourname.directoryup.com). When ready to launch, point your live custom domain.\n\n## DNS Configuration\n1. Log into your domain registrar (GoDaddy, Namecheap, Cloudflare, etc.).\n2. Add an A Record: Host '@' pointing to the IP address displayed in your BD Dashboard.\n3. Add a CNAME Record: Host 'www' pointing to your root domain.\n\n## Free SSL Certificate\nOnce DNS propagates (typically 1-4 hours), click 'Install Free SSL' in the BD Dashboard. Brilliant Directories provisions a free Let's Encrypt SSL certificate automatically renewing every 90 days.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/domain-dns-settings.png"
+    ]
+  },
+  {
+    "chunk_id": "art_8_c0",
+    "article_id": 8,
+    "chunk_index": 0,
+    "title": "Lead Generation and Automatic Member Matching",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558500-lead-generation-and-auto-matching-settings",
+    "section": "Overview",
+    "chunk_text": "Article: Lead Generation and Automatic Member Matching\nSection: Overview\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558500-lead-generation-and-auto-matching-settings\n\n## Overview\nThe Automatic Lead Matching system routes incoming visitor inquiries to qualified members based on category and geographic location. Navigate to Leads >> Lead Settings.\n\n## Matching Rules\nConfigure whether leads match based on exact top-level category or also match sub-categories. You can set a maximum radius (e.g., 25 miles) and cap the maximum number of members receiving each lead (e.g., up to 3 members).\n\n## Monetizing Leads\nDirectory owners can provide leads for free, charge a fee per lead purchase, or include lead credits as part of premium membership plans.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/lead-matching-rules.png"
+    ]
+  },
+  {
+    "chunk_id": "art_8_c1",
+    "article_id": 8,
+    "chunk_index": 1,
+    "title": "Lead Generation and Automatic Member Matching",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558500-lead-generation-and-auto-matching-settings",
+    "section": "Matching Rules",
+    "chunk_text": "Article: Lead Generation and Automatic Member Matching\nSection: Matching Rules\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558500-lead-generation-and-auto-matching-settings\n\n## Overview\nThe Automatic Lead Matching system routes incoming visitor inquiries to qualified members based on category and geographic location. Navigate to Leads >> Lead Settings.\n\n## Matching Rules\nConfigure whether leads match based on exact top-level category or also match sub-categories. You can set a maximum radius (e.g., 25 miles) and cap the maximum number of members receiving each lead (e.g., up to 3 members).\n\n## Monetizing Leads\nDirectory owners can provide leads for free, charge a fee per lead purchase, or include lead credits as part of premium membership plans.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/lead-matching-rules.png"
+    ]
+  },
+  {
+    "chunk_id": "art_8_c2",
+    "article_id": 8,
+    "chunk_index": 2,
+    "title": "Lead Generation and Automatic Member Matching",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558500-lead-generation-and-auto-matching-settings",
+    "section": "Monetizing Leads",
+    "chunk_text": "Article: Lead Generation and Automatic Member Matching\nSection: Monetizing Leads\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558500-lead-generation-and-auto-matching-settings\n\n## Overview\nThe Automatic Lead Matching system routes incoming visitor inquiries to qualified members based on category and geographic location. Navigate to Leads >> Lead Settings.\n\n## Matching Rules\nConfigure whether leads match based on exact top-level category or also match sub-categories. You can set a maximum radius (e.g., 25 miles) and cap the maximum number of members receiving each lead (e.g., up to 3 members).\n\n## Monetizing Leads\nDirectory owners can provide leads for free, charge a fee per lead purchase, or include lead credits as part of premium membership plans.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/lead-matching-rules.png"
+    ]
+  },
+  {
+    "chunk_id": "art_9_c0",
+    "article_id": 9,
+    "chunk_index": 0,
+    "title": "Managing Membership Plans and Pricing Levels",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558525-managing-membership-plans-and-pricing",
+    "section": "Overview",
+    "chunk_text": "Article: Managing Membership Plans and Pricing Levels\nSection: Overview\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558525-managing-membership-plans-and-pricing\n\n## Overview\nMembership plans determine what privileges, search priority, and features directory members receive. Manage plans under Finance >> Membership Plans.\n\n## Pricing Models\nBrilliant Directories supports: Free plans, One-Time payment plans, and Recurring Subscriptions (Monthly, Quarterly, Annual). Configure trial periods and initial setup fees if desired.\n\n## Feature Restrictions\nControl permissions per plan: Allow member to upload photos, create coupon posts, receive direct messages, publish job listings, or access restricted member-only pages.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/membership-plans.png"
+    ]
+  },
+  {
+    "chunk_id": "art_9_c1",
+    "article_id": 9,
+    "chunk_index": 1,
+    "title": "Managing Membership Plans and Pricing Levels",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558525-managing-membership-plans-and-pricing",
+    "section": "Pricing Models",
+    "chunk_text": "Article: Managing Membership Plans and Pricing Levels\nSection: Pricing Models\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558525-managing-membership-plans-and-pricing\n\n## Overview\nMembership plans determine what privileges, search priority, and features directory members receive. Manage plans under Finance >> Membership Plans.\n\n## Pricing Models\nBrilliant Directories supports: Free plans, One-Time payment plans, and Recurring Subscriptions (Monthly, Quarterly, Annual). Configure trial periods and initial setup fees if desired.\n\n## Feature Restrictions\nControl permissions per plan: Allow member to upload photos, create coupon posts, receive direct messages, publish job listings, or access restricted member-only pages.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/membership-plans.png"
+    ]
+  },
+  {
+    "chunk_id": "art_9_c2",
+    "article_id": 9,
+    "chunk_index": 2,
+    "title": "Managing Membership Plans and Pricing Levels",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558525-managing-membership-plans-and-pricing",
+    "section": "Feature Restrictions",
+    "chunk_text": "Article: Managing Membership Plans and Pricing Levels\nSection: Feature Restrictions\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558525-managing-membership-plans-and-pricing\n\n## Overview\nMembership plans determine what privileges, search priority, and features directory members receive. Manage plans under Finance >> Membership Plans.\n\n## Pricing Models\nBrilliant Directories supports: Free plans, One-Time payment plans, and Recurring Subscriptions (Monthly, Quarterly, Annual). Configure trial periods and initial setup fees if desired.\n\n## Feature Restrictions\nControl permissions per plan: Allow member to upload photos, create coupon posts, receive direct messages, publish job listings, or access restricted member-only pages.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/membership-plans.png"
+    ]
+  },
+  {
+    "chunk_id": "art_10_c0",
+    "article_id": 10,
+    "chunk_index": 0,
+    "title": "Exporting and Importing Member Records",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558550-exporting-and-importing-members-data",
+    "section": "Overview",
+    "chunk_text": "Article: Exporting and Importing Member Records\nSection: Overview\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558550-exporting-and-importing-members-data\n\n## Overview\nBulk member management is handled via CSV under My Members >> Member Export and My Members >> Import Members.\n\n## Exporting Members\nFilter members by status (Active, Pending, Cancelled) or plan level, then click 'Export Members to CSV'. The export includes user IDs, names, emails, company info, and addresses.\n\n## Importing Guidelines\nWhen importing, ensure email addresses are unique. If a member's email already exists, choose whether to update existing records or skip duplicates. Custom form fields can be mapped during the import step.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/member-export-filter.png"
+    ]
+  },
+  {
+    "chunk_id": "art_10_c1",
+    "article_id": 10,
+    "chunk_index": 1,
+    "title": "Exporting and Importing Member Records",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558550-exporting-and-importing-members-data",
+    "section": "Exporting Members",
+    "chunk_text": "Article: Exporting and Importing Member Records\nSection: Exporting Members\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558550-exporting-and-importing-members-data\n\n## Overview\nBulk member management is handled via CSV under My Members >> Member Export and My Members >> Import Members.\n\n## Exporting Members\nFilter members by status (Active, Pending, Cancelled) or plan level, then click 'Export Members to CSV'. The export includes user IDs, names, emails, company info, and addresses.\n\n## Importing Guidelines\nWhen importing, ensure email addresses are unique. If a member's email already exists, choose whether to update existing records or skip duplicates. Custom form fields can be mapped during the import step.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/member-export-filter.png"
+    ]
+  },
+  {
+    "chunk_id": "art_10_c2",
+    "article_id": 10,
+    "chunk_index": 2,
+    "title": "Exporting and Importing Member Records",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558550-exporting-and-importing-members-data",
+    "section": "Importing Guidelines",
+    "chunk_text": "Article: Exporting and Importing Member Records\nSection: Importing Guidelines\nSource: https://support.brilliantdirectories.com/support/solutions/articles/5000558550-exporting-and-importing-members-data\n\n## Overview\nBulk member management is handled via CSV under My Members >> Member Export and My Members >> Import Members.\n\n## Exporting Members\nFilter members by status (Active, Pending, Cancelled) or plan level, then click 'Export Members to CSV'. The export includes user IDs, names, emails, company info, and addresses.\n\n## Importing Guidelines\nWhen importing, ensure email addresses are unique. If a member's email already exists, choose whether to update existing records or skip duplicates. Custom form fields can be mapped during the import step.",
+    "images": [
+      "https://support.brilliantdirectories.com/assets/images/member-export-filter.png"
+    ]
+  },
+  {
+    "chunk_id": "esc_2_c0",
+    "article_id": 11,
+    "chunk_index": 0,
+    "title": "Expert Resolution: Does Brilliant Directories support cryptocurrency payments natively?",
+    "url": "https://support.brilliantdirectories.com/support/expert-resolution/2",
+    "section": "Verified Expert Solution",
+    "chunk_text": "## Question\nDoes Brilliant Directories support cryptocurrency payments natively?\n\n## Verified Expert Solution\nBrilliant Directories does not support native direct cryptocurrency gateways. However, directory owners can integrate third-party payment widgets such as BitPay via custom HTML iFrames.\n\nResolved by: Senior Architect Alex",
+    "images": []
+  },
+  {
+    "chunk_id": "esc_11_c0",
+    "article_id": 12,
+    "chunk_index": 0,
+    "title": "Expert Resolution: Does Brilliant Directories support cryptocurrency payments natively?",
+    "url": "https://support.brilliantdirectories.com/support/expert-resolution/11",
+    "section": "Verified Expert Solution",
+    "chunk_text": "## Question\nDoes Brilliant Directories support cryptocurrency payments natively?\n\n## Verified Expert Solution\nBrilliant Directories does not support native direct cryptocurrency gateways. However, directory owners can integrate third-party payment widgets such as BitPay via custom HTML iFrames.\n\nResolved by: Senior Architect Alex",
+    "images": []
+  }
+]

@@ -1,0 +1,28 @@
+[MEETING TRANSCRIPT 2 - E-COMMERCE & BILLING WORKFLOW SCOPING]
+Project: Artisan Guild Direct Vendor Checkout & Billing Integration
+Client: Rebecca Thorne (President, Artisan Guild Co-op)
+Consultant: Alex Mercer (Senior AI Solutions Consultant)
+Date: October 12, 2026
+Label: Role-Played Synthetic Transcript (E-Commerce, Checkout, Notifications, and Stripe)
+
+Alex: Hi Rebecca! Great to connect with you. Let's delve into the e-commerce and member monetization workflow you'd like to implement for Artisan Guild on Brilliant Directories.
+
+Rebecca: Hi Alex! We represent over 800 independent woodworkers, ceramicists, and jewelers. Right now, our members join through manual paper forms and checks, which is totally unscalable. We need to implement automated digital checkout for membership tiers: Free Apprentice, Pro Artisan ($39/month recurring with a 14-day free trial), and Master Guild ($399/year).
+
+Alex: Brilliant Directories handles recurring subscription billing natively through Stripe. Are you already set up with a verified Stripe account?
+
+Rebecca: Yes, our Stripe Merchant account is verified, and we have both Live and Test API keys ready. We need the checkout flow to collect billing address, credit card, and require the member to accept our digital Vendor Terms of Service agreement checkbox before checkout completes.
+
+Alex: Got it. Standard Stripe gateway connection, webhook synchronization for active subscriptions, and mandatory Terms of Service acceptance on the checkout form. What notifications need to trigger when a purchase succeeds or fails?
+
+Rebecca: When a payment succeeds, we need an instant branded receipt emailed to the artisan, and our admin team needs a Slack or email notification. If an automatic monthly renewal fails, we want an automated dunning email sent to the member with a direct link to update their payment method, without immediately canceling their profile. We want a 7-day grace period.
+
+Alex: Understood. Brilliant Directories has customizable transactional email templates under Emails >> Email Templates and native failed payment dunning notices. Can you tell me about member product sales? Are members selling physical goods directly through this portal, or is this strictly for membership subscription fees?
+
+Rebecca: For this phase, it is strictly for member subscription fees and sponsored featured banner upgrades ($99 one-time). We are deliberately excluding multi-vendor physical product cart checkouts because split payouts through Stripe Connect are too complicated for this initial rollout.
+
+Alex: That is a very smart scoping decision. Excluding multi-vendor split carts will keep delivery on schedule and within budget. What is your expected launch date?
+
+Rebecca: We want this billing workflow fully live and tested in sandbox within 6 weeks, so by late November.
+
+Alex: Excellent. Our team will define the technical deliverables, task hour breakdown, and acceptance criteria for your review. Thank you Rebecca!

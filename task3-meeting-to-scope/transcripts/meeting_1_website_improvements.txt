@@ -1,0 +1,32 @@
+[MEETING TRANSCRIPT 1 - INITIAL DISCOVERY & SCOPING]
+Project: Metro Medical & Wellness Directory Enhancement
+Client: Dr. Marcus Vance (Director, Metro Healthcare Network)
+Consultant: Alex Mercer (Senior AI Solutions Consultant)
+Date: October 10, 2026
+Label: Role-Played Synthetic Transcript (Search, Filters, and Mobile Usability)
+
+Alex: Good morning Dr. Vance! Thank you for taking the time to meet today. To kick off, could you walk me through the primary challenges you're experiencing with your existing Brilliant Directories healthcare portal?
+
+Dr. Vance: Hi Alex, thanks for hopping on. Our main issue right now is that patients find our directory frustrating to navigate. We have about 1,200 verified physicians and specialty clinics, but patients struggle to find doctors near them. Specifically, our location search is confusing—it currently defaults to national search instead of automatically detecting the user's city or zip code. We must have an intelligent location search with a configurable radius filter, say 5, 10, 25, and 50 miles.
+
+Alex: Got it. Intelligent location radius search with automatic browser geolocation detection and radius dropdowns. Is that a hard requirement for the launch?
+
+Dr. Vance: Yes, absolutely. That is a must-have. Secondly, we need multi-tier specialty filtering. For example, a patient looking for Orthopedics should be able to filter by sub-specialty like Pediatric Orthopedics or Sports Medicine, and then filter by accepted insurance providers like BlueCross or Aetna.
+
+Alex: Understood. Sub-specialty filtering and custom insurance provider taxonomy. Are those insurance lists already digitized?
+
+Dr. Vance: Yes, we have a clean CSV spreadsheet with all 18 major insurance plans and provider IDs ready to import.
+
+Alex: Excellent. Brilliant Directories has native category importing via CSV, so we can map that directly. What about mobile responsiveness?
+
+Dr. Vance: That's our third big pain point. Over 65% of our traffic comes from smartphones, but our search result cards look cluttered on small screens, and the Google Maps view overlaps the physician profile cards. We need a clean, responsive mobile search layout where users can toggle between a map view and a swipeable doctor card list. Initially our board asked if we need a native iOS and Android app, but if the responsive mobile web experience is fast and smooth, responsive web is our primary priority.
+
+Alex: That makes complete sense. A clean responsive mobile layout avoids the 30% app store fees and dual codebase overhead. What is your target timeline for this first phase?
+
+Dr. Vance: We are targeting a public rollout in 8 weeks from kickoff, in early December.
+
+Alex: Perfect. And who on your side will be responsible for reviewing and signing off on the design wireframes and insurance data validation?
+
+Dr. Vance: Our clinical operations lead, Sarah Lin, will be the designated point of contact and will approve all acceptance criteria within 48 hours of delivery.
+
+Alex: Wonderful. I'll synthesize these requirements, run feasibility checks against the Brilliant Directories platform capabilities, and prepare our detailed engineering scope and task estimate. Thank you Dr. Vance!

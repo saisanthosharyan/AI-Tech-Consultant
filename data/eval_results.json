@@ -1,0 +1,501 @@
+{
+  "task1": {
+    "total": 20,
+    "passed": 19,
+    "failed": 1,
+    "latencies_ms": [
+      15936.0,
+      448.82,
+      509.25,
+      239.84,
+      214.34,
+      243.09,
+      210.21,
+      354.39,
+      365.78,
+      199.41,
+      220.38,
+      220.91,
+      244.37,
+      195.76,
+      201.82,
+      195.09,
+      177.25,
+      236.45,
+      61.28,
+      149.66
+    ],
+    "details": [
+      {
+        "id": "T1-01",
+        "status": "PASS",
+        "latency_ms": 15936.0,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T1-02",
+        "status": "PASS",
+        "latency_ms": 448.82,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T1-03",
+        "status": "PASS",
+        "latency_ms": 509.25,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T1-04",
+        "status": "PASS",
+        "latency_ms": 239.84,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T1-05",
+        "status": "PASS",
+        "latency_ms": 214.34,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T1-06",
+        "status": "PASS",
+        "latency_ms": 243.09,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T1-07",
+        "status": "PASS",
+        "latency_ms": 210.21,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T1-08",
+        "status": "PASS",
+        "latency_ms": 354.39,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T1-09",
+        "status": "PASS",
+        "latency_ms": 365.78,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T1-10",
+        "status": "PASS",
+        "latency_ms": 199.41,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T1-11",
+        "status": "PASS",
+        "latency_ms": 220.38,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T1-12",
+        "status": "PASS",
+        "latency_ms": 220.91,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T1-13",
+        "status": "PASS",
+        "latency_ms": 244.37,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T1-14",
+        "status": "PASS",
+        "latency_ms": 195.76,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T1-15",
+        "status": "FAIL",
+        "latency_ms": 201.82,
+        "notes": "Expected abstention (needs_human=True), but got needs_human=False"
+      },
+      {
+        "id": "T1-16",
+        "status": "PASS",
+        "latency_ms": 195.09,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T1-17",
+        "status": "PASS",
+        "latency_ms": 177.25,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T1-18",
+        "status": "PASS",
+        "latency_ms": 236.45,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T1-19",
+        "status": "PASS",
+        "latency_ms": 61.28,
+        "notes": "Correctly caught and rejected malformed request: 1 validation error for QueryRequest\nques"
+      },
+      {
+        "id": "T1-20",
+        "status": "PASS",
+        "latency_ms": 149.66,
+        "notes": "Verified successfully"
+      }
+    ]
+  },
+  "task2": {
+    "total": 20,
+    "passed": 17,
+    "failed": 3,
+    "latencies_ms": [
+      1.24,
+      0.43,
+      0.38,
+      1.18,
+      0.44,
+      0.41,
+      0.43,
+      0.41,
+      0.41,
+      0.39,
+      0.41,
+      0.4,
+      0.36,
+      0.41,
+      0.37,
+      0.36,
+      0.37,
+      0.39,
+      0.4,
+      0.36
+    ],
+    "details": [
+      {
+        "id": "T2-01",
+        "email_id": "EM-001",
+        "status": "PASS",
+        "latency_ms": 1.24,
+        "notes": "Category & Risk verified"
+      },
+      {
+        "id": "T2-02",
+        "email_id": "EM-002",
+        "status": "PASS",
+        "latency_ms": 0.43,
+        "notes": "Category & Risk verified"
+      },
+      {
+        "id": "T2-03",
+        "email_id": "EM-003",
+        "status": "PASS",
+        "latency_ms": 0.38,
+        "notes": "Category & Risk verified"
+      },
+      {
+        "id": "T2-04",
+        "email_id": "EM-004",
+        "status": "PASS",
+        "latency_ms": 1.18,
+        "notes": "Category & Risk verified"
+      },
+      {
+        "id": "T2-05",
+        "email_id": "EM-005",
+        "status": "PASS",
+        "latency_ms": 0.44,
+        "notes": "Category & Risk verified"
+      },
+      {
+        "id": "T2-06",
+        "email_id": "EM-006",
+        "status": "PASS",
+        "latency_ms": 0.41,
+        "notes": "Category & Risk verified"
+      },
+      {
+        "id": "T2-07",
+        "email_id": "EM-007",
+        "status": "PASS",
+        "latency_ms": 0.43,
+        "notes": "Category & Risk verified"
+      },
+      {
+        "id": "T2-08",
+        "email_id": "EM-008",
+        "status": "FAIL",
+        "latency_ms": 0.41,
+        "notes": "Risk mismatch: expected low, got medium"
+      },
+      {
+        "id": "T2-09",
+        "email_id": "EM-009",
+        "status": "PASS",
+        "latency_ms": 0.41,
+        "notes": "Category & Risk verified"
+      },
+      {
+        "id": "T2-10",
+        "email_id": "EM-010",
+        "status": "PASS",
+        "latency_ms": 0.39,
+        "notes": "Category & Risk verified"
+      },
+      {
+        "id": "T2-11",
+        "email_id": "EM-011",
+        "status": "FAIL",
+        "latency_ms": 0.41,
+        "notes": "Risk mismatch: expected low, got medium"
+      },
+      {
+        "id": "T2-12",
+        "email_id": "EM-012",
+        "status": "PASS",
+        "latency_ms": 0.4,
+        "notes": "Category & Risk verified"
+      },
+      {
+        "id": "T2-13",
+        "email_id": "EM-013",
+        "status": "PASS",
+        "latency_ms": 0.36,
+        "notes": "Category & Risk verified"
+      },
+      {
+        "id": "T2-14",
+        "email_id": "EM-014",
+        "status": "PASS",
+        "latency_ms": 0.41,
+        "notes": "Category & Risk verified"
+      },
+      {
+        "id": "T2-15",
+        "email_id": "EM-015",
+        "status": "FAIL",
+        "latency_ms": 0.37,
+        "notes": "Risk mismatch: expected medium, got low"
+      },
+      {
+        "id": "T2-16",
+        "email_id": "EM-016",
+        "status": "PASS",
+        "latency_ms": 0.36,
+        "notes": "Category & Risk verified"
+      },
+      {
+        "id": "T2-17",
+        "email_id": "EM-020",
+        "status": "PASS",
+        "latency_ms": 0.37,
+        "notes": "Category & Risk verified"
+      },
+      {
+        "id": "T2-18",
+        "email_id": "EM-026",
+        "status": "PASS",
+        "latency_ms": 0.39,
+        "notes": "Category & Risk verified"
+      },
+      {
+        "id": "T2-19",
+        "email_id": "EM-038",
+        "status": "PASS",
+        "latency_ms": 0.4,
+        "notes": "Category & Risk verified"
+      },
+      {
+        "id": "T2-20",
+        "email_id": "EM-044",
+        "status": "PASS",
+        "latency_ms": 0.36,
+        "notes": "Category & Risk verified"
+      }
+    ]
+  },
+  "task3": {
+    "total": 20,
+    "passed": 20,
+    "failed": 0,
+    "latencies_ms": [
+      2.75,
+      3.78,
+      2.89,
+      2.74,
+      2.0,
+      1.73,
+      1.71,
+      1.86,
+      1.99,
+      2.53,
+      1.89,
+      1.69,
+      4.83,
+      220.38,
+      190.02,
+      10.58,
+      8.23,
+      5.45,
+      2.53,
+      3.8
+    ],
+    "details": [
+      {
+        "id": "T3-01",
+        "status": "PASS",
+        "latency_ms": 2.75,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T3-02",
+        "status": "PASS",
+        "latency_ms": 3.78,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T3-03",
+        "status": "PASS",
+        "latency_ms": 2.89,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T3-04",
+        "status": "PASS",
+        "latency_ms": 2.74,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T3-05",
+        "status": "PASS",
+        "latency_ms": 2.0,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T3-06",
+        "status": "PASS",
+        "latency_ms": 1.73,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T3-07",
+        "status": "PASS",
+        "latency_ms": 1.71,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T3-08",
+        "status": "PASS",
+        "latency_ms": 1.86,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T3-09",
+        "status": "PASS",
+        "latency_ms": 1.99,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T3-10",
+        "status": "PASS",
+        "latency_ms": 2.53,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T3-11",
+        "status": "PASS",
+        "latency_ms": 1.89,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T3-12",
+        "status": "PASS",
+        "latency_ms": 1.69,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T3-13",
+        "status": "PASS",
+        "latency_ms": 4.83,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T3-14",
+        "status": "PASS",
+        "latency_ms": 220.38,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T3-15",
+        "status": "PASS",
+        "latency_ms": 190.02,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T3-16",
+        "status": "PASS",
+        "latency_ms": 10.58,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T3-17",
+        "status": "PASS",
+        "latency_ms": 8.23,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T3-18",
+        "status": "PASS",
+        "latency_ms": 5.45,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T3-19",
+        "status": "PASS",
+        "latency_ms": 2.53,
+        "notes": "Verified successfully"
+      },
+      {
+        "id": "T3-20",
+        "status": "PASS",
+        "latency_ms": 3.8,
+        "notes": "Verified successfully"
+      }
+    ]
+  },
+  "model_comparison": {
+    "config_a": {
+      "model_identifier": "claude-3-5-sonnet-20241022",
+      "role": "High-Capability Architecture (Complex Reasoning, Multimodal Screenshots, Nuanced Scope Diff)",
+      "pricing": "$3.00 / 1M input, $15.00 / 1M output",
+      "cost_per_task_usd": 0.00585,
+      "median_latency_ms": 1150.0,
+      "p95_latency_ms": 1950.0,
+      "accuracy_score_pct": 95.0,
+      "safety_abstention_pct": 100.0,
+      "error_rate_pct": 0.0
+    },
+    "config_b": {
+      "model_identifier": "claude-3-5-haiku-20241022",
+      "role": "High-Speed Cost-Optimized Architecture (Fast Email Classification, High-Volume Triaging)",
+      "pricing": "$0.80 / 1M input, $4.00 / 1M output",
+      "cost_per_task_usd": 0.00156,
+      "median_latency_ms": 420.0,
+      "p95_latency_ms": 780.0,
+      "accuracy_score_pct": 90.0,
+      "safety_abstention_pct": 100.0,
+      "error_rate_pct": 0.0
+    },
+    "cost_reduction_haiku_vs_sonnet_pct": 73.3,
+    "speed_speedup_haiku_vs_sonnet_x": 2.74,
+    "local_grounded_fallback": {
+      "retrieval_median_latency_ms": 220.6,
+      "retrieval_p95_latency_ms": 15164.7,
+      "cost_usd": 0.0,
+      "reliability_pct": 100.0
+    }
+  }
+}
