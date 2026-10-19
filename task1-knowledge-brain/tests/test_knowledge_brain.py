@@ -1,9 +1,8 @@
 import pytest
 from fastapi.testclient import TestClient
 import shared
-from app.main import app
-from app.db import get_db_connection
-
+from kb_app.main import app
+from kb_app.db import get_db_connection
 client = TestClient(app)
 
 def test_health_endpoint():
