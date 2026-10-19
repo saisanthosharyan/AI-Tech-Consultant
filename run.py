@@ -22,7 +22,14 @@ def main():
     (data_dir / "vector_index").mkdir(parents=True, exist_ok=True)
 
     print("[1/3] Starting Knowledge Brain REST API on http://localhost:8000 ...")
-    kb_cmd = [sys.executable, "-m", "uvicorn", "kb_app.main:app", "--host", "0.0.0.0", "--port", "8000"]
+    kb_cmd = [
+        sys.executable,
+        "-m", "uvicorn",
+        "kb_app.main:app",
+        "--app-dir", str(ROOT_DIR / "task1-knowledge-brain"),
+        "--host", "127.0.0.1",
+        "--port", "8000",
+    ]
     kb_proc = subprocess.Popen(kb_cmd, cwd=str(ROOT_DIR))
 
     print("Waiting 3 seconds for Knowledge Brain API to initialize...")
